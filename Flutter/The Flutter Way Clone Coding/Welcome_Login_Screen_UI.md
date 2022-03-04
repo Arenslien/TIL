@@ -1,4 +1,4 @@
-# Welcome & Login Screen UI -> 
+# Welcome & Login Screen UI
 
 ## 새롭게 배운 점
 
